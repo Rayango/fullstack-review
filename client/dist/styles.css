@@ -1,0 +1,12 @@
+body {
+  margin: 5%;
+}
+
+td {
+  text-align: center;
+}
+
+#header {
+  font-size: 200%;
+  font-style: italic;
+}
